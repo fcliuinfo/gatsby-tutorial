@@ -17,6 +17,7 @@ const IndexPage = () => {
 }
 */
 
+
 const IndexPage = () => {
   return (
     <Layout pageTitle="Home Page">
